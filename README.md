@@ -4,11 +4,11 @@ This project was created using HTML, CSS, and Vanilla JavaScript. It uses an int
 - [Giphy](https://giphy.com/)
 
 ### Screenshot
-![](./project info/meme-snip-1.JPG)
+![](./images/meme-snip-1.JPG)
 
 Landing page, from the list you can select mood you are feeling or want to see. There is also an option to filter only GIFs.
 
-![](./project info/meme-snip-2.JPG)
+![](./images/meme-snip-2.JPG)
 
 After selecting the GET IMAGE button you will see a random meme from the internal data set of corgi memes.
 
